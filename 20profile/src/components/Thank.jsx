@@ -57,7 +57,7 @@ const Thank = () => {
                             <div className="grid grid-cols-10 gap-4" data-sal="slide-up" data-sal-delay="200" data-sal-easing="ease" data-sal-duration="800">
                                 <div className="col-start-1 col-span-10 px-0 md:col-start-1 md:col-span-9 md:px-0 md:pr-9">
                                     <div className="not-prose mb-8">
-                                        <p className="text-gray-500 mb-44 text-2xl font-light font-custom md:text-5xl">Let's build something together.</p>
+                                        <p className="text-gray-500 mb-44 text-2xl font-light font-custom md:text-5xl">Lets build something together.</p>
                                         <p className="mb-6">
                                             <a href="https://www.linkedin.com/in/rakibsarowar" target="_blank" rel="noreferrer" className="mr-11 mb-6 text-left md:text-center block md:inline-block px-0 py-3 rounded-full bg-gray-900 hover:text-white text-base md:text-lg font-bold text-gray-500">LinkedIn</a>
                                             <a href="https://www.instagram.com/rakibsarowar" target="_blank" rel="noreferrer" className="mr-11 mb-6 text-left md:text-center block md:inline-block px-0 py-3 rounded-full bg-gray-900 hover:text-white text-base md:text-lg font-bold text-gray-500">Instagram</a>

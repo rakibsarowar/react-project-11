@@ -3,6 +3,7 @@ import React from 'react';
 import Hero from './Hero';
 import Image from '../../public/element.svg'
 import Thank from './Thank';
+import Project from './project';
 
 
 const Main = () => {
@@ -12,6 +13,7 @@ const Main = () => {
                 <img className="mt-5 hidden xl:block absolute" src={Image} alt="" />
             </div>
             <Hero></Hero>
+            <Project></Project>
             <Thank></Thank>
            
         </div>
