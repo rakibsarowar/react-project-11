@@ -1,13 +1,12 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import Hero from './Hero';
 
-const Main = () => {
+const Hero = () => {
     return (
         <div>
-            <Hero></Hero>
+            <h1>Hero</h1>
         </div>
     );
 };
 
-export default Main;
+export default Hero;
