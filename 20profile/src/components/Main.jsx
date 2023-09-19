@@ -2,6 +2,8 @@
 import React from 'react';
 import Hero from './Hero';
 import Image from '../../public/element.svg'
+import Thank from './Thank';
+
 
 const Main = () => {
     return (
@@ -10,6 +12,8 @@ const Main = () => {
                 <img className="mt-5 hidden xl:block absolute" src={Image} alt="" />
             </div>
             <Hero></Hero>
+            <Thank></Thank>
+           
         </div>
     );
 };
