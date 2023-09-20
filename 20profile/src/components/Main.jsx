@@ -4,11 +4,13 @@ import Hero from './Hero';
 import Image from '../../public/element.svg'
 import Thank from './Thank';
 import Project from './project';
+import Nav from './Nav';
 
 
 const Main = () => {
     return (
         <div className='bg-gray-900'>
+            <Nav></Nav>
             <div className="container mx-auto  px-5 md:pt-0 relative">
                 <img className="mt-5 hidden xl:block absolute" src={Image} alt="" />
             </div>
