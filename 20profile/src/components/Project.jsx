@@ -44,9 +44,9 @@ const Project = () => {
                                         </div>
                                         <h2 className="text-2xl md:text-3xl font-extrabold text-white mb-3 md:mb-6 block">A Marshal Art Learning Site for Summer Camp 
                                         </h2>
-                                        <p className="text-gray-300 text-base md:text-lg font-normal mb-2 md:mb-6">This project features provides separate dashboards for allowing each role to access relevant information and perform specific actions.
+                                        <p className="text-gray-300 text-base md:text-lg font-normal mb-2 md:mb-2">This project features provides separate dashboards for allowing each role to access relevant information and perform specific actions.
                                         </p>
-                                        <p className="text-gray-300 text-base md:text-lg font-normal mb-10 md:mb-20">-A Project build by Tailwind | React | MongoDB  
+                                        <p className="text-gray-300 text-base md:text-lg font-normal mb-10 md:mb-12">-A Project build by Tailwind | React | MongoDB  
                                         </p>
                                         <p className="text-gray-400 font-custom font-semibold mb-0">
                                             <span role="img" aria-label="link"> 🔐</span> Ask me to unlock</p>
