@@ -5,6 +5,7 @@ import Image from '../../public/element.svg'
 import Thank from './Thank';
 import Project from './project';
 import Nav from './Nav';
+import Skills from './Skills';
 
 
 const Main = () => {
@@ -15,6 +16,7 @@ const Main = () => {
                 <img className="mt-5 hidden xl:block absolute" src={Image} alt="" />
             </div>
             <Hero></Hero>
+            <Skills></Skills>
             <Project></Project>
             <Thank></Thank>
            

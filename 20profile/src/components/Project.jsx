@@ -1,5 +1,6 @@
 const Project = () => {
     return (
+
         <div id="project">
             <div className="container mx-auto pt-0 mb-16 md:pt-16 px-5 md:mb-20 sm font-sans relative">
                 <div className="grid grid-cols-12 gap-4">
@@ -97,6 +98,7 @@ const Project = () => {
                     More projects</a>
             </div>
         </div>
+        
     );
 };
 
