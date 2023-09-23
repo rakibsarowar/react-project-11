@@ -1,5 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
+import './Skills.css'
 
 const Skills = () => {
     return (
@@ -26,18 +27,50 @@ const Skills = () => {
 
                             <div className="col-span-12 px-0 sm:col-start-1 sm:col-span-12 sm:px-0 lg:col-start-1 lg:col-span-12 lg:px-0 xl:col-span-8 xl:col-start-3 2xl:col-span-8 2xl:col-start-3">
 
-                                <div className='flex gap-2'>
-                                    <div className='w-80 h-80 border-2 text-center'>
-                                        hellow
-                                    </div>
-                                    <div className='w-80 border-2 text-center'>
-                                        hellow
-                                    </div>
-                                    <div className='w-80 border-2 text-center'>
-                                        hellow
-                                    </div>
-                                </div>
+                                <div className='flex align-middle justify-center gap-4'>
 
+                                    {/* Box 01------------------------------------------- */}
+                                    <div className='box w-48 h-48 bg-gray-800'>
+                                        <span className="boarderLine"></span>
+                                        <div className='mainBox flex items-center justify-center text-white md:text-3xl font-extrabold'>
+                                            <h1>HTML</h1>
+                                        </div>
+                                    </div>
+
+                                    {/* Box 02------------------------------------------- */}
+                                    <div className='box w-48 h-48 bg-gray-800'>
+                                        <span className="boarderLine"></span>
+                                        <div className='mainBox flex items-center justify-center text-white md:text-3xl font-extrabold'>
+                                            <h1>CSS3</h1>
+                                        </div>
+                                    </div>
+
+                                    {/* Box 03------------------------------------------- */}
+                                    <div className='box w-48 h-48 bg-gray-800'>
+                                        <span className="boarderLine"></span>
+                                        <div className='mainBox flex items-center justify-center text-white md:text-3xl font-extrabold'>
+                                            <h1>JavaScript</h1>
+                                        </div>
+                                    </div>
+
+                                    {/* Box 04------------------------------------------- */}
+                                    <div className='box w-48 h-48 bg-gray-800'>
+                                        <span className="boarderLine"></span>
+                                        <div className='mainBox flex items-center justify-center text-white md:text-3xl font-extrabold'>
+                                            <h1>React</h1>
+                                        </div>
+                                    </div>
+
+                                    {/* Box 05------------------------------------------- */}
+                                    <div className='box w-48 h-48 bg-gray-800'>
+                                        <span className="boarderLine"></span>
+                                        <div className='mainBox flex items-center justify-center text-white md:text-3xl font-extrabold'>
+                                            <h1>Vue</h1>
+                                        </div>
+                                    </div>
+
+
+                                </div>
                             </div>
                         </div>
                     </div>
