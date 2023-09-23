@@ -94,7 +94,7 @@ const Project = () => {
                 </div>
             </div>
 
-            <div className="pb-8 flex justify-center items-center">
+            <div className="pb-8 flex justify-center     items-center">
                 <a direction="up" className="px-12 text-white bg-gradient-to-br from-amber-200 to-orange-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg md:text-xl py-4 text-center  mb-7 inline-block" data-sal="slide-up" data-sal-delay="200" data-sal-easing="ease" data-sal-duration="800" href="#">
                     More Project</a>
             </div>

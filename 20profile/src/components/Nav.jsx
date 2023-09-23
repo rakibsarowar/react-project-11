@@ -15,7 +15,7 @@ const Nav = () => {
 
                                     <a direction="up" className='font-medium text-gray-300 hover:text-white mr-10 md:mr-0' href='#projects'> Projects</a>
 
-                                    <a direction="up" className='font-medium text-gray-300 hover:text-white mr-10 md:mr-0' href='skills'> Skills </a>
+                                    <a direction="up" className='font-medium text-gray-300 hover:text-white mr-10 md:mr-0' href='#skills'> Skills </a>
 
                                     
                                 </div>
