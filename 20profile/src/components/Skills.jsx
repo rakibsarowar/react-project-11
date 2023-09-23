@@ -26,6 +26,17 @@ const Skills = () => {
 
                             <div className="col-span-12 px-0 sm:col-start-1 sm:col-span-12 sm:px-0 lg:col-start-1 lg:col-span-12 lg:px-0 xl:col-span-8 xl:col-start-3 2xl:col-span-8 2xl:col-start-3">
 
+                                <div className='flex gap-2'>
+                                    <div className='w-80 h-80 border-2 text-center'>
+                                        hellow
+                                    </div>
+                                    <div className='w-80 border-2 text-center'>
+                                        hellow
+                                    </div>
+                                    <div className='w-80 border-2 text-center'>
+                                        hellow
+                                    </div>
+                                </div>
 
                             </div>
                         </div>
