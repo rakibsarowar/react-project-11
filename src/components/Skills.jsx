@@ -30,7 +30,7 @@ const Skills = () => {
                             <div className='flex align-middle justify-center gap-4'>
 
                                 {/* Box 01------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-900'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-900'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
                                         <h1>HTML</h1>
@@ -38,7 +38,7 @@ const Skills = () => {
                                 </div>
 
                                 {/* Box 02------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
                                         <h1>CSS3</h1>
@@ -46,7 +46,7 @@ const Skills = () => {
                                 </div>
 
                                 {/* Box 03------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
                                         <h1>JavaScript</h1>
@@ -54,7 +54,7 @@ const Skills = () => {
                                 </div>
 
                                 {/* Box 04------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
                                         <h1>React</h1>
@@ -62,7 +62,7 @@ const Skills = () => {
                                 </div>
 
                                 {/* Box 05------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
                                         <h1>Vue</h1>
@@ -75,42 +75,42 @@ const Skills = () => {
                             <div className='flex align-middle justify-center gap-4 mt-4'>
 
                                 {/* Box 01------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
-                                        <h1>Express</h1>
+                                        <h1>Redux</h1>
                                     </div>
                                 </div>
 
                                 {/* Box 02------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
+                                    <span className="boarderLine"></span>
+                                    <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
+                                        <h1>Next</h1>
+                                    </div>
+                                </div>
+
+                                {/* Box 03------------------------------------------- */}
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
                                         <h1>Firebase</h1>
                                     </div>
                                 </div>
 
-                                {/* Box 03------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
-                                    <span className="boarderLine"></span>
-                                    <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
-                                        <h1>MongoDB</h1>
-                                    </div>
-                                </div>
-
                                 {/* Box 04------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
-                                        <h1>React</h1>
+                                        <h1>Express</h1>
                                     </div>
                                 </div>
 
                                 {/* Box 05------------------------------------------- */}
-                                <div className='box w-48 h-48 bg-gray-800'>
+                                <div className='box w-48 h-48 md:h-40 bg-gray-800'>
                                     <span className="boarderLine"></span>
                                     <div className='mainBox flex items-center justify-center text-white md:text-2xl font-extrabold'>
-                                        <h1>Vue</h1>
+                                        <h1>MongoDB</h1>
                                     </div>
                                 </div>
 
