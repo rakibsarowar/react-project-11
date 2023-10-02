@@ -3,9 +3,9 @@ import React from 'react';
 import Hero from './Hero';
 import Image from '../../public/element.svg'
 import Thank from './Thank';
-import Project from './project';
 import Nav from './Nav';
 import Skills from './Skills';
+import Projects from './Projects';
 
 
 const Main = () => {
@@ -17,7 +17,7 @@ const Main = () => {
             </div>
             <Hero></Hero>
             <Skills></Skills>
-            <Project></Project>
+            <Projects></Projects>
             <Thank></Thank>
            
         </div>
